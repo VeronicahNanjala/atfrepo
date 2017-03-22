@@ -36,8 +36,9 @@
 
         <!-- Jumbotron Header -->
         <header class="jumbotron hero-spacer">
-            <h1>Welcome to easyDATA!</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa, ipsam, eligendi, in quo sunt possimus non incidunt odit vero aliquid similique quaerat nam nobis illo aspernatur vitae fugiat numquam repellat.</p>
+            <h1 align="center">Welcome to easyDATA!</h1>
+            <p align="center"><br>easyDATA is a platform that brings you data right where you are!<br>
+             Information on the Berekuso Community. We got you covered!!!! </p>
             <form action="search.php" method="get" accept-charset="utf-8">
                 <div class="row">
                 <div class="col-lg-12">
